@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CPUPerformance.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Processor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Processor</Value>
+    </Setting>
+    <Setting Name="ProcessorTime" Type="System.String" Scope="User">
+      <Value Profile="(Default)">% Processor Time</Value>
+    </Setting>
+    <Setting Name="_Total" Type="System.String" Scope="User">
+      <Value Profile="(Default)">_Total</Value>
+    </Setting>
+    <Setting Name="Memory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Memory</Value>
+    </Setting>
+    <Setting Name="CommittedBytesInUse" Type="System.String" Scope="User">
+      <Value Profile="(Default)">% Committed Bytes In Use</Value>
+    </Setting>
+    <Setting Name="_Total1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
